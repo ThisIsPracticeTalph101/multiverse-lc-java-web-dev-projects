@@ -1,4 +1,6 @@
-public class Cat {
+package main.java;
+
+public abstract class Cat {
 
     private boolean tired = false;
     private boolean hungry = false;
